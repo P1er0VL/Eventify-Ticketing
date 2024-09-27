@@ -1,0 +1,29 @@
+[
+  {
+    "id": 1,
+    "artist": "Juanes",
+    "date": "2024-10-01",
+    "venue": "Estadio Azteca",
+    "hour": "20:00",
+    "price": 500,
+    "image": "https://example.com/juanes.jpg"
+  },
+  {
+    "id": 2,
+    "artist": "Shakira",
+    "date": "2024-11-15",
+    "venue": "Palacio de los Deportes",
+    "hour": "21:00",
+    "price": 700,
+    "image": "https://example.com/shakira.jpg"
+  },
+  {
+    "id": 3,
+    "artist": "Los Bukis",
+    "date": "2024-12-10",
+    "venue": "Estadio BBVA",
+    "hour": "19:30",
+    "price": 600,
+    "image": "https://example.com/bukis.jpg"
+  }
+]

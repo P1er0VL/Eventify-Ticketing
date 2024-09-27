@@ -1,0 +1,16 @@
+{
+  "ticket": {
+    "id": "Code.",
+    "artist": "Artist",
+    "price": "Price",
+    "venue": "Venue",
+    "hour": "Hour",
+    "image": "Image",
+    "date": "Date"
+  },
+  "footer": {
+    "rights": "Copyright © 2024 {{ api }}, All rights reserved",
+    "intro": "Developed ",
+    "author": "by {{ team }} Team"
+  }
+}
